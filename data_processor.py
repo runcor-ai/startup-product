@@ -1,1 +1,14 @@
-"""Data processor module."""\n\ndef process(data):\n    \"\"\"Process data.\n\n    Args:\n        data: Input data to process.\n\n    Returns:\n        Processed data.\n    \"\"\"\n    # TODO: Implement processing logic\n    return data
+"""Data processor module."""
+
+
+def process(data):
+    """Process data.
+    
+    Args:
+        data: Input data to process.
+        
+    Returns:
+        Processed data.
+    """
+    # TODO: Implement processing logic
+    return data
