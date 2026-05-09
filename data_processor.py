@@ -1,5 +1,6 @@
 """Data processor module."""
 
+
 def process(data):
     """Process data.
     
